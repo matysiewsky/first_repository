@@ -1,1 +1,2 @@
 Pierwsza linia w pliku.
+Druga linijka w pliku.
